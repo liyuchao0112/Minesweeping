@@ -1,0 +1,7 @@
+[
+{
+  "directory": "E:/Liyuchao/Programs/Cpp/Minesweeping/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\2022\\COMMUN~1\\VC\\Tools\\Llvm\\x64\\bin\\clang.exe -O3 -DNDEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -o CMakeFiles\\Minesweeping.dir\\Sources\\main.cpp.obj -c E:\\Liyuchao\\Programs\\Cpp\\Minesweeping\\Sources\\main.cpp",
+  "file": "E:\\Liyuchao\\Programs\\Cpp\\Minesweeping\\Sources\\main.cpp"
+}
+]

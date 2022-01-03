@@ -1,4 +1,4 @@
 MapWeight=10
-MapHeight=30
+MapHeight=10
 LandmineNumber=30
 UnknownCharacter=*

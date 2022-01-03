@@ -70,7 +70,7 @@ build Minesweeping.exe: CXX_EXECUTABLE_LINKER__Minesweeping_Release CMakeFiles/M
   LINK_FLAGS = -Xlinker /subsystem:console
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 -loldnames
   OBJECT_DIR = CMakeFiles\Minesweeping.dir
-  POST_BUILD = cd .
+  POST_BUILD = cmd.exe /C "cd /D E:\Liyuchao\Programs\Cpp\Minesweeping\build && start E:/Liyuchao/Programs/Cpp/Minesweeping/AfterBuild.bat"
   PRE_LINK = cd .
   TARGET_COMPILE_PDB = CMakeFiles\Minesweeping.dir\
   TARGET_FILE = Minesweeping.exe
